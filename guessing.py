@@ -1,6 +1,6 @@
 from random import randrange
 print("*********************************")
-print("Bem vindo ao jogo de Adivinhação!")
+print("Welcome to the guessing game!")
 print("*********************************")
 
 secret_number = randrange(1, 101)
